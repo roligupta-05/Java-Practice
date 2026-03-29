@@ -11,7 +11,7 @@ public class SumOfNo {
         
         int sum = a+b;
 
-        System.out.println("the sum of these numbers are:");
+        System.out.println("The sum of 1st and 2nd numbers are:");
         System.out.println(sum);
     }
 }
