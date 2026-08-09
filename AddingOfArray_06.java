@@ -1,3 +1,5 @@
+//Adding of Array in java.
+
 package com.company;
 
 public class AddingOfArray_06 {
