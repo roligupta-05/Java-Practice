@@ -1,3 +1,6 @@
+// Adding two matrices in java using string method.
+
+
 package com.company;
 
 public class AddOfTwoMatrix_06 {
